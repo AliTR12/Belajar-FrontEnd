@@ -1,0 +1,7 @@
+Roadmap menjadi Frontend developer
+- belajar html
+- belajar css
+- belajar javascript
+- belajar vcs
+- belajar css framework
+- belajar react
