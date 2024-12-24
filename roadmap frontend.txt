@@ -5,3 +5,5 @@ Roadmap menjadi Frontend developer
 - belajar vcs
 - belajar css framework
 - belajar react
+- belajar bahasa inggris
+- cari loker kerja remote
